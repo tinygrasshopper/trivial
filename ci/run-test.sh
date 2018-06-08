@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 GOPATH=`pwd`
-cd source-code
+cd src/github.com/tinygrasshopper/trivial
 go test ./...
 
-# cd src/github.com/tinygrasshopper/trivial
