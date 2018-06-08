@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/totherme/tinygrasshopper/hello"
+	"github.com/tinygrasshopper/trivial/hello"
 )
 
 func main() {
